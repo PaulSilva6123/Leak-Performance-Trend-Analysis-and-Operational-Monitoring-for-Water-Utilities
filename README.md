@@ -6,6 +6,10 @@ Building upon an existing automated leak reporting framework, I developed an ope
 The solution provided utility leadership with insight into fluctuations in leaks received, leaks resolved, and backlog growth while highlighting geographic areas where leak response times exceeded expected thresholds. Interactive filtering and spatial analysis transformed operational records into actionable intelligence that supported continuous performance monitoring and resource allocation.
 
 ---
+## The dashboard provided an operational performance view of leak activity by comparing rolling 30-day reporting periods. Interactive visualizations highlighted changes in leaks received, leaks resolved, backlog growth, and areas experiencing prolonged repair durations to support proactive decision-making.
+
+![Leak Performance Dashboard](leak-performance-dashboard.png)
+---
 
 ## Business Problem
 
