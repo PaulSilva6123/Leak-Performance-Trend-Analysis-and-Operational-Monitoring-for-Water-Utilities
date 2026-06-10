@@ -66,4 +66,7 @@ Process Automation
 
 ## Results & Business Recommendations
 
-PLACEHOLDER
+The dashboard provided leadership with the ability to evaluate operational performance trends rather than relying solely on current workload metrics. Rolling 30-day comparisons revealed whether leak operations were improving, deteriorating, or remaining stable across multiple reporting periods.
+Comparative indicators highlighted changes in incoming leaks, completed repairs, and net backlog growth. The interactive filtering capabilities allowed users to investigate the specific leak events contributing to changes in performance metrics.
+Spatial analysis of fixed leaks requiring more than 20 days to resolve revealed opportunities to investigate whether prolonged response times were concentrated within particular geographic areas. Identifying these patterns enabled leadership to explore whether staffing limitations, asset conditions, recurring infrastructure issues, or operational processes contributed to extended repair durations.
+
